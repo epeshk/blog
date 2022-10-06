@@ -4,5 +4,7 @@
 
 # Discuss
 To discuss blog posts pleace [create an issue](https://github.com/epeshk/blog/issues/new) or join [telegram group](https://t.me/epeshkblog)
+
 For notifications please join [telegram group](https://t.me/epeshkblog)
+
 For corrections or additions you could open a [pull request](https://github.com/epeshk/blog/pulls)
